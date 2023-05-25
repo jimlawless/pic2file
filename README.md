@@ -12,3 +12,5 @@ When running, pic2file will save any image copied to the Windows clipboard to a 
     Syntax: Pic2File.exe -dir dir_to_store_pics -prefix filename_prefix -beep [ -gif -png -tiff -jpg -bmp ]
 
     The default output format is -jpg.
+
+Binaries are available at https://jiml.us/downloads/pic2file.zip , however, I have had some issues with Windows Defender triggering false positives with some releases of this software.  You might need to compile your own copy.
