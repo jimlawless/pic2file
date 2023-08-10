@@ -9,10 +9,10 @@ Please see the blog post at: https://jiml.us/blog/posts/pic2file
     
     Pic2File by Jim Lawless - jimbo@radiks.net
     Github source: https://github.com/jimlawless/pic2file
-    Blog post: https://jiml.us/posts/pic2file
+    Blog post: https://jimlawless.net/blog/pic2file
 
     Syntax: Pic2File.exe -dir dir_to_store_pics -prefix filename_prefix -beep [ -gif -png -tiff -jpg -bmp ]
 
     The default output format is -jpg.
 
-Binaries are available at https://jiml.us/downloads/pic2file.zip , however, I have had some issues with Windows Defender triggering false positives with some releases of this software.  You might need to compile your own copy.
+Binaries are available at https://jimlawless.net/downloads/pic2file.zip , however, I have had some issues with Windows Defender triggering false positives with some releases of this software.  You might need to compile your own copy.
