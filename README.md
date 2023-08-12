@@ -15,4 +15,4 @@ Please see the blog post at: https://jiml.us/blog/posts/pic2file
 
     The default output format is -jpg.
 
-Binaries are available at https://jimlawless.net/downloads/pic2file.zip , however, I have had some issues with Windows Defender triggering false positives with some releases of this software.  You might need to compile your own copy.
+Binaries are available at https://jiml.us/downloads/pic2file.zip , however, I have had some issues with Windows Defender triggering false positives with some releases of this software.  You might need to compile your own copy.
